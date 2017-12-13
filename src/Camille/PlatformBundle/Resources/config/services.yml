@@ -1,0 +1,4 @@
+services:
+#    camille_platform.example:
+#        class: Camille\PlatformBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

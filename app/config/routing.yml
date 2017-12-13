@@ -1,0 +1,9 @@
+camille_app:
+    resource: "@CamilleAppBundle/Resources/config/routing.yml"
+    prefix:   /
+
+camille_platform:
+    resource: "@CamillePlatformBundle/Resources/config/routing.yml"
+    prefix:   /
+
+

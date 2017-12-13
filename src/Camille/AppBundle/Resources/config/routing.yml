@@ -1,0 +1,3 @@
+camille_app_homepage:
+    path:     /
+    defaults: { _controller: CamilleAppBundle:Default:index }
